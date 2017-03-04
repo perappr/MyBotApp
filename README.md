@@ -12,7 +12,7 @@ The sample app uses two class files from the sources below.
 
 Replace the xxx values in the web.config file.
 
-    <add key="BotId" value="zxbot2" />
+    <add key="BotId" value="xxx" /> 
     <add key="MicrosoftAppId" value="xxx" />
     <add key="MicrosoftAppPassword" value="xxx" />
     <add key="OpenWeatherMap_App_Id" value="xxx" />
