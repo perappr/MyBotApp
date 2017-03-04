@@ -1,5 +1,5 @@
 # MyBotApp
-A sample bot app that integrates with Yahoo Finance API and OpenWeatherMap service.
+A sample bot app that integrates with Yahoo Finance API and OpenWeatherMap API.
 The sample app uses two class files from the sources below. 
 
 * [An Interactive Bot Application With LUIS Using Microsoft Bot Framework](http://www.c-sharpcorner.com/article/an-interactive-bot-application-with-luis-using-microsoft-bot/) - yahoo finance service 
