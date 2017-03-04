@@ -8,3 +8,14 @@ The sample app uses two class files from the sources below.
 ## Getting Started
 
 * [Getting started with the Connector](https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html) 
+
+Replace the xxx values in the web.config file.
+
+
+    <add key="MicrosoftAppId" value="xxx" />
+
+    <add key="MicrosoftAppPassword" value="xxx" />
+
+    <add key="OpenWeatherMap_App_Id" value="xxx" />
+
+    <add key="LuisURI" value="https://xxx.api.cognitive.microsoft.com/luis/v2.0/apps/xxx?subscription-key=xxx" />
