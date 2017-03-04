@@ -104,8 +104,6 @@ namespace bot2
             LUISDataModel Data = new LUISDataModel();
             using (HttpClient client = new HttpClient())
             {
-                //string RequestURI = "https://api.projectoxford.ai/luis/v1/application?id=7f626790-38d6-4143-9d46-fe85c56a9016&subscription-key=09f80de609fa4698ab4fe5249321d165&q=" + Query;
-                //string RequestURI = "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/c0382e45-f418-4a92-aee8-170a6ba0f78a?subscription-key=091a6fdfb2394b8b9a1604b0d1c63221&q=" + Query;
 
                 string RequestURI = ConfigurationManager.AppSettings["LuisURI"] + "&q=" + Query;
                 HttpResponseMessage msg = await client.GetAsync(RequestURI);
