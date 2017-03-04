@@ -9,6 +9,8 @@ A sample bot app that integrates with Cognitive Services - LUIS, Yahoo Finance A
 ## Getting Started
 
 * [Getting started with the Connector](https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html) 
+* [Integrate Bot App with Cognitive Services LUIS, RESTful Services and Web APIs](https://blogs.msdn.microsoft.com/zxue/2017/03/04/integrate-bot-app-with-cognitive-services-luis-and-rest-services/) 
+
 
 Replace the xxx values in the web.config file.
 
