@@ -1,6 +1,5 @@
 # MyBotApp
-A sample bot app that integrates with Yahoo Finance API and OpenWeatherMap API.
-The sample app uses two class files from the sources below. 
+A sample bot app that integrates with Cognitive Services - LUIS, Yahoo Finance API and OpenWeatherMap API.
 
 * [Language Understanding Intelligent Services] (https://www.microsoft.com/cognitive-services/en-us/luis-api/documentation/home) LUIS
 * [An Interactive Bot Application With LUIS Using Microsoft Bot Framework](http://www.c-sharpcorner.com/article/an-interactive-bot-application-with-luis-using-microsoft-bot/) - Yahoo Finance API 
