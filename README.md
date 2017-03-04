@@ -2,6 +2,7 @@
 A sample bot app that integrates with Yahoo Finance API and OpenWeatherMap API.
 The sample app uses two class files from the sources below. 
 
+* [Language Understanding Intelligent Services] (https://www.microsoft.com/cognitive-services/en-us/luis-api/documentation/home) LUIS
 * [An Interactive Bot Application With LUIS Using Microsoft Bot Framework](http://www.c-sharpcorner.com/article/an-interactive-bot-application-with-luis-using-microsoft-bot/) - Yahoo Finance API 
 * [Introduction to the Bot Framework: Building a weather bot](https://github.com/mmgrt/streamcode) - OpenWeatherMap API
 
